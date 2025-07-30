@@ -1,0 +1,15 @@
+{
+  "title": "Default Set",
+  "cards": [
+    {
+      "word": "猫",
+      "translation": "Cat",
+      "romaji": "neko"
+    },
+    {
+      "word": "犬",
+      "translation": "Dog",
+      "romaji": "inu"
+    }
+  ]
+}

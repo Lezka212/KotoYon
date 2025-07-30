@@ -1,0 +1,15 @@
+{
+  "theme": "light",
+  "language": "en",
+  "romaji_mode": false,
+  "show_romaji": false,
+  "direction_reversed": false,
+  "selected_dict": "template.json",
+  "selected_file": "template.json",
+  "fat_mode": false,
+  "tests_taken": 0,
+  "correct_answers": 0,
+  "total_questions": 0,
+  "enable_hint": false,
+  "hint_threshold": 5
+}
