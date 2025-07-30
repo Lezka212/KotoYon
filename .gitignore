@@ -1,0 +1,29 @@
+# ── Python artifacts & окружение ──
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+env/
+.Python
+
+# ── Логи, временные файлы ──
+*.log
+*.tmp
+*.bak
+
+# ── Настройки текущего пользователя ──
+settings.json
+
+# ── Сборки и дистрибутивы ──
+dist/
+build/
+*.exe
+*.apk
+*.msi
+*.whl
+
+# ── IDE и ОС ──
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
