@@ -1,24 +1,27 @@
-# 📘 Приложение для изучения слов и иероглифов (канзи)
+## 🌐 Language | Язык | 语言
+[English](README.md) | [Русский](README.ru.md) | [中文](README.zh.md)
 
-Это простое, но мощное приложение для запоминания слов с помощью флеш-карточек.
+# 📘 Word and Kanji Learning App
 
----
-
-## 🧠 Возможности
-
-- 🎴 Изучение слов и кандзи по карточкам
-- 🗂 Встроенный редактор словарей: легко добавлять, изменять и удалять слова
-- ⚙️ Гибкие настройки под разные сценарии обучения
-- 🌍 Интерфейс переведён на 20+ языков
-- 💡 Возможность использовать ИИ для генерации словарей по примеру
-- 📥 Импорт словарей из файлов формата JSON
-- 🈯 Поддержка японского языка, но можно учить слова на любом языке
+This is a simple yet powerful app for memorizing words using flashcards.
 
 ---
 
-## 💡 Пример словаря (для импорта)
+## 🧠 Features
 
-(формат JSON)
+- 🎴 Learn words and kanji using flashcards
+- 🗂 Built-in dictionary editor: easy to add, edit and delete words
+- ⚙️ Flexible settings for different learning scenarios
+- 🌍 Interface translated into 20+ languages
+- 💡 Ability to use AI to generate dictionaries based on an example
+- 📥 Import dictionaries from JSON files
+- 🈯 Support for Japanese, but you can learn words in any language
+
+---
+
+## 💡 Example dictionary (for import)
+
+(JSON format)
 ```
 {
   "title": "Японские слова",
@@ -32,16 +35,25 @@
   "sentence_mode": false
 }
 ```
----
-
-## ⚠️ Важно
-
-У меня нет денег на сертификат, поэтому Windows может выдавать предупреждение при установке. Просто нажмите «Подробнее» → «Всё равно выполнить».
 
 ---
 
-## 📦 APK-файл — скоро!
+## ⚠️ Important
 
+I don't have money for a certificate, so Windows may issue a warning during installation. Just click "More details" → "Run anyway".
 
+---
+
+## ☕ Made by Lezka
+If you liked it, you can support
+me here: https://ko-fi.com/kotoyon_by_lezka
+
+---
+
+## 📦 APK file - coming soon!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
+
+
